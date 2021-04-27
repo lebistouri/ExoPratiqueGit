@@ -11,7 +11,8 @@ button{
 }
 
 #SignUp {
-    margin: 200px;
+
+    margin-left: 1000px;
 }
 
 #LienPageConnexionPlus{
@@ -20,4 +21,30 @@ button{
 
 #LienSInscrire{
     color: white;
+}
+
+#CommentPageInscription{
+    margin-top: 300px;
+    color: white;
+    font-size: 30px;
+}
+
+#Info1{
+
+    border: blue 5px double;
+}
+
+#Info2{
+
+    border: green 5px dotted;
+}
+
+#Info3{
+
+    border:red 5px ridge;
+}
+
+#Info4{
+
+    border: white 5px double;
 }
