@@ -1,0 +1,15 @@
+body{
+    background-image: url(img/img_background.jpg);
+    background-size: cover;
+}
+
+button{
+    background-color: green;
+    font-size: 20px;
+    color: white;
+    
+}
+
+#SignUp {
+    margin: 200px;
+}
